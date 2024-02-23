@@ -25,16 +25,19 @@ My current research interests are at the intersection of autonomous driving syst
 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 Our TNANO'24 paper can be early accessed on the [IEEE Xplorer](https://ieeexplore.ieee.org/document/10443589).
 - *2024.02*: &nbsp;🎉🎉 One co-authored paper about *Deformable Attention Acceleration* is accepted by DAC'24 !!! Congratulations to Yansong !!!! See you in San Francisco !!!
-- *2024.02*: &nbsp;🎉🎉 Our TCAS-II'24 paper appears on the [IEEE Xplorer](https://ieeexplore.ieee.org/document/10433078).
+- *2024.02*: &nbsp;🎉🎉 Our TCAS-II'24 paper can be early accessed on the [IEEE Xplorer](https://ieeexplore.ieee.org/document/10433078).
 - *2024.02*: &nbsp;🎉🎉 One co-authored paper about *NN data compression engine* is accepted by IEEE TCAS-II. Congratulations to Yuzhou !!!
-- *2024.01*: &nbsp;🎉🎉 Our TVLSI'24 paper appears on the [IEEE Xplorer](https://ieeexplore.ieee.org/document/10416684). 
+- *2024.01*: &nbsp;🎉🎉 Our TVLSI'24 paper can be early accessed on the [IEEE Xplorer](https://ieeexplore.ieee.org/document/10416684). 
 - *2024.01*: &nbsp;🎉🎉 The extended paper of our DAC'23 is accepted by IEEE TVLSI !!!. 
 - *2023.11*: &nbsp;🎉🎉 One co-authored paper about *SC-based MAC Design* is accepted by IEEE TNANO. Congratulations to Aokun !!!
 - *2023.07*: &nbsp;🎉🎉 One paper about *3D Sparse Convolution Accelerator* is accepted by ICCAD 2023. See you in San Francisco, US! 
 - *2023.02*: &nbsp;🎉🎉 One paper about *Feature Learning Network Acceleration of Point Clouds* is accepted by DAC 2023. See you in San Francisco, US!
 
 # 📝 Publications 
+
+$^{*}$: me as the project manager; $^{ddagger}$: equal contribution.
 
 ## Selected Publications
 
@@ -43,10 +46,10 @@ My current research interests are at the intersection of autonomous driving syst
 
 [FLNA: Flexibly Accelerating Feature Learning Networks for Large-Scale Point Clouds with Efficient Dataflow Decoupling]()
 
-**Dongxu Lyu**$^{\ddagger}$, Zhenyu Li$^{\ddagger}$, Yuzhou Chen, Gang Wang, Weifeng He, Ningyi Xu, Guanghui He ($^{\ddagger}$: equal contribution)
+**Dongxu Lyu**$^{\ddagger}$, Zhenyu Li$^{\ddagger}$, Yuzhou Chen, Gang Wang, Weifeng He, Ningyi Xu and Guanghui He
 
-- A grid-based feature learning network accelerator with algorithm-architecture co-optimization for large-scale point clouds. 
-- It also demonstrates substantial performance boost over the state-of-the-art point cloud accelerators while providing superior support of large-scale point clouds ($>10^6$ points in $\sim$2ms).
+- The **first** grid-based feature learning network accelerator with algorithm-architecture co-optimization for large-scale point clouds. 
+- It demonstrates substantial performance boost over the state-of-the-art point cloud accelerators while providing superior support of large-scale point clouds ($>10^6$ points in $\sim$2ms).
 - **An extension of our DAC'24 paper**.
 - *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*
 </div>
@@ -57,9 +60,9 @@ My current research interests are at the intersection of autonomous driving syst
 
 [FLNA: An Energy-Efficient Point Cloud Feature Learning Accelerator with Dataflow Decoupling](https://ieeexplore.ieee.org/abstract/document/10247674)
 
-**Dongxu Lyu**, Zhenyu Li, Yuzhou Chen, Ningyi Xu, Guanghui He 
+**Dongxu Lyu**, Zhenyu Li, Yuzhou Chen, Ningyi Xu and Guanghui He 
 - The first grid-based feature learning network accelerator with algorithm-architecture co-optimization. 
-- It achieves 13.4 − 43.3× speedup over RTX 2080Ti GPU on representative FLN benchmarks.
+- It achieves 13.4−43.3× speedup over RTX 2080Ti GPU on representative FLN benchmarks.
 - *2023 60th ACM/IEEE Design Automation Conference (DAC)*
 </div>
 </div>
@@ -69,7 +72,7 @@ My current research interests are at the intersection of autonomous driving syst
 
 [SpOctA: A 3D Sparse Convolution Accelerator with Octree-Encoding-Based Map Search and Inherent Sparsity-Aware Processing](https://ieeexplore.ieee.org/document/10323728)
 
-**Dongxu Lyu**, Zhenyu Li, Yuzhou Chen, Jinming Zhang, Ningyi Xu, Guanghui He 
+**Dongxu Lyu**, Zhenyu Li, Yuzhou Chen, Jinming Zhang, Ningyi Xu and Guanghui He 
 - A novel 3D sparse convolution accelerator that enables high-speed and energy-efficient point cloud processing. 
 - SpOctA rivals the state-of-the-art SpConv accelerators by 1.1-6.9x speedup with 1.5-3.1x energy efficiency improvement on their benchmarks.
 - *2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)*
@@ -78,20 +81,21 @@ My current research interests are at the intersection of autonomous driving syst
 
 ## Full Pub List
 
+
 ### Efficient Hardware Accelerators for AI Computing (Jan. 2022 -- Present)
-- ``DAC 2024`` [DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing](), Yansong Xu, **Dongxu Lyu**, Zhenyu Li, Yuzhou Chen, Zilong Wang, Gang Wang, Zhican Wang, Haomin Li and Guanghui He, *2024 61th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2024.
-- ``TCAS-II 2024`` [A Broad-Spectrum and High-Throughput Compression Engine for Neural Network Processors](https://ieeexplore.ieee.org/document/10433078), Yuzhou Chen, Jinming Zhang, **Dongxu Lyu**, Zhenyu Li, Guanghui He, in *IEEE Transactions on Circuits and Systems II: Express Briefs*.
-- ``TVLSI 2024`` [FLNA: Flexibly Accelerating Feature Learning Networks for Large-Scale Point Clouds with Efficient Dataflow Decoupling](https://ieeexplore.ieee.org/document/10416684), **Dongxu Lyu**$^{\ddagger}$, Zhenyu Li$^{\ddagger}$, Yuzhou Chen, Gang Wang, Weifeng He, Ningyi Xu, Guanghui He ($^{\ddagger}$: equal contribution), in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*.
-- ``ICCAD 2023`` [SpOctA: A 3D Sparse Convolution Accelerator with Octree-Encoding-Based Map Search and Inherent Sparsity-Aware Processing](https://ieeexplore.ieee.org/document/10323728), **Dongxu Lyu**, Zhenyu Li, Yuzhou Chen, Jinming Zhang, Ningyi Xu, Guanghui He, *2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, San Francisco, CA, USA, 2023, pp. 1-9.
-- ``DAC 2023`` [FLNA: An Energy-Efficient Point Cloud Feature Learning Accelerator with Dataflow Decoupling](https://ieeexplore.ieee.org/abstract/document/10247674), **Dongxu Lyu**, Zhenyu Li, Yuzhou Chen, Ningyi Xu, Guanghui He, *2023 60th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2023, pp. 1-6.
-- ``ISCAS 2023`` [O$^3$NMS: An Out-Of-Order-Based Low-Latency Accelerator for Non-Maximum Suppression](https://ieeexplore.ieee.org/abstract/document/10181731), Yuzhou Chen, Jinming Zhang, **Dongxu Lyu**, Xi Yu, Guanghui He, *2023 IEEE International Symposium on Circuits and Systems (ISCAS)*, Monterey, CA, USA, 2023, pp. 1-5.
+- ``DAC 2024`` [DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing](), Yansong Xu, **Dongxu Lyu**$^{*}$, Zhenyu Li, Yuzhou Chen, Zilong Wang, Gang Wang, Zhican Wang, Haomin Li and Guanghui He, *2024 61th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2024.
+- ``TCAS-II 2024`` [A Broad-Spectrum and High-Throughput Compression Engine for Neural Network Processors](https://ieeexplore.ieee.org/document/10433078), Yuzhou Chen, Jinming Zhang, **Dongxu Lyu**$^{*}$, Zhenyu Li and Guanghui He, in *IEEE Transactions on Circuits and Systems II: Express Briefs*.
+- ``TVLSI 2024`` [FLNA: Flexibly Accelerating Feature Learning Networks for Large-Scale Point Clouds with Efficient Dataflow Decoupling](https://ieeexplore.ieee.org/document/10416684), **Dongxu Lyu**$^{\ddagger}$, Zhenyu Li$^{\ddagger}$, Yuzhou Chen, Gang Wang, Weifeng He, Ningyi Xu and Guanghui He, in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*.
+- ``ICCAD 2023`` [SpOctA: A 3D Sparse Convolution Accelerator with Octree-Encoding-Based Map Search and Inherent Sparsity-Aware Processing](https://ieeexplore.ieee.org/document/10323728), **Dongxu Lyu**, Zhenyu Li, Yuzhou Chen, Jinming Zhang, Ningyi Xu and Guanghui He, *2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, San Francisco, CA, USA, 2023, pp. 1-9.
+- ``DAC 2023`` [FLNA: An Energy-Efficient Point Cloud Feature Learning Accelerator with Dataflow Decoupling](https://ieeexplore.ieee.org/abstract/document/10247674), **Dongxu Lyu**, Zhenyu Li, Yuzhou Chen, Ningyi Xu and Guanghui He, *2023 60th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2023, pp. 1-6.
+- ``ISCAS 2023`` [O$^3$NMS: An Out-Of-Order-Based Low-Latency Accelerator for Non-Maximum Suppression](https://ieeexplore.ieee.org/abstract/document/10181731), Yuzhou Chen, Jinming Zhang, **Dongxu Lyu**$^{*}$, Xi Yu and Guanghui He, *2023 IEEE International Symposium on Circuits and Systems (ISCAS)*, Monterey, CA, USA, 2023, pp. 1-5.
 
 ### Emerging Stochastic Computing Techniques for AI Computing (Sep. 2021 -- Present)
-- ``TNANO 2024`` [Efficient Parallel Stochastic Computing Multiply-Accumulate (MAC) Technique Using Pseudo-Sobol Bit-Streams](), Aokun Hu, Wenjie Li, **Dongxu Lyu**, Guanghui He, in *IEEE Transactions on Nanotechnology*.
-- ``NANOARCH 2022`` [An Efficient Stochastic Convolution Accelerator based on Pseudo-Sobol Sequences](https://dl.acm.org/doi/abs/10.1145/3565478.3572543), Aokun Hu, Wenjie Li, **Dongxu Lyu**, Guanghui He, *the 17th ACM International Symposium on Nanoscale Architectures (NANOARCH)*, pp. 1-6. 2022.
+- ``TNANO 2024`` [Efficient Parallel Stochastic Computing Multiply-Accumulate (MAC) Technique Using Pseudo-Sobol Bit-Streams](https://ieeexplore.ieee.org/document/10443589), Aokun Hu, Wenjie Li, **Dongxu Lyu** and Guanghui He, in *IEEE Transactions on Nanotechnology*.
+- ``NANOARCH 2022`` [An Efficient Stochastic Convolution Accelerator based on Pseudo-Sobol Sequences](https://dl.acm.org/doi/abs/10.1145/3565478.3572543), Aokun Hu, Wenjie Li, **Dongxu Lyu** and Guanghui He, *the 17th ACM International Symposium on Nanoscale Architectures (NANOARCH)*, pp. 1-6. 2022.
 
 ### Efficient Massive MIMO Detectors for 5G/6G Communication (Sep. 2019 -- Sep. 2021)
-- ``TVLSI 2021`` [A 3.85-Gb/s 8 × 8 Soft-Output MIMO Detector With Lattice-Reduction-Aided Channel Preprocessing](https://ieeexplore.ieee.org/abstract/document/9266114), Zhuojun Liang, **Dongxu Lyu**, Chao Cui, Hai-Bao Chen, Weifeng He, Weiguang Sheng, Naifeng Jing, Zhigang Mao, Guanghui He, in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*, vol. 29, no. 2, pp. 307-320, Feb. 2021.
+- ``TVLSI 2021`` [A 3.85-Gb/s 8 × 8 Soft-Output MIMO Detector With Lattice-Reduction-Aided Channel Preprocessing](https://ieeexplore.ieee.org/abstract/document/9266114), Zhuojun Liang, **Dongxu Lyu**, Chao Cui, Hai-Bao Chen, Weifeng He, Weiguang Sheng, Naifeng Jing, Zhigang Mao and Guanghui He, in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*, vol. 29, no. 2, pp. 307-320, Feb. 2021.
 
 
 # 🎖 Honors and Awards
