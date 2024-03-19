@@ -19,21 +19,21 @@ redirect_from:
 
 I'm a Ph.D candidate for Electrical Science and Technology at the Department of Micro/Nano Electronics (微纳电子学系), Shanghai Jiao Tong University, Shanghai, China, and under the supervision of Professor [Guanghui He](https://dmne.sjtu.edu.cn/dmne/faculty/heguanghui/). 
 
-My current research interests focus on **Efficient ASIC Architecture Design for Emerging Applications**. 
+My current research interests focus on **Efficient ASIC Architecture Design for Emerging Applications**  (<a href='https://scholar.google.com/citations?user=K1JGQBIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
 - **Efficient Hardware Accelerators for AI Computing**
-- - Multi-sensor Perception Acceleration for Autonomous Driving Systems
-- - - Preprocessing: *feature learning network* (DAC'23, TVLSI'24)
-- - - Backbone: *3D sparse convolution* (ICCAD'23)
-- - - Multi-modality Fusion: *BEV perception* (DAC'24 and new one to be submitted to TCAS-I)
-- - - Postprocessing: *Non-maximum Suppression* (ISCAS'23)
-- - Data Compression Techniques for High-bandwidth Requirement from Future Neural Networks (TCAS-II'24)
+  - Multi-sensor Perception Acceleration for Autonomous Driving Systems
+    - Preprocessing: *feature learning network* (DAC'23, TVLSI'24)
+    - Backbone: *3D sparse convolution* (ICCAD'23)
+    - Multi-modality Fusion: *BEV perception* (DAC'24 and new one to be submitted to TCAS-I)
+    - Postprocessing: *Non-maximum Suppression* (ISCAS'23)
+  - Data Compression Techniques for High-bandwidth Requirement from Future Neural Networks (TCAS-II'24)
 - **Emerging Stochastic Computing Techniques for AI Computing**
-- - Efficient Sequence Generator and MAC Implementation (NANOARCH'22, TNANO'24)
+  - Efficient Sequence Generator and MAC Implementation (NANOARCH'22, TNANO'24)
 - **Efficient Massive MIMO Detectors for 5G/6G Communication**
-- - 8x8 High-thoughput Soft-output MIMO detector (TVLSI'21)
+  - 8x8 High-thoughput Soft-output MIMO detector (TVLSI'21)
 
 
-The current focus is efficient ASIC design for AI applications like BEV perception, point cloud processing and massive MIMO wireless detector, and emerging computing paradigm design like stochastic computing (<a href='https://scholar.google.com/citations?user=K1JGQBIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- The current focus is efficient ASIC design for AI applications like BEV perception, point cloud processing and massive MIMO wireless detector, and emerging computing paradigm design like stochastic computing (<a href='https://scholar.google.com/citations?user=K1JGQBIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
