@@ -24,9 +24,10 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
   - Multi-sensor Perception Acceleration for Autonomous Driving Systems
     - Preprocessing: *feature learning network* (DAC'23, TVLSI'24)
     - Backbone: *3D sparse convolution* (ICCAD'23)
-    - Multi-modality Fusion: *BEV perception* (DAC'24 and new one to be submitted to TCAS-I)
+    - Multi-modality Fusion: *BEV perception* (DAC'24 and new one submitted to TCAS-I)
     - Postprocessing: *Non-maximum Suppression* (ISCAS'23)
   - Data Compression Techniques for High-bandwidth Requirement from Future Neural Networks (TCAS-II'24)
+  - Hardware/Software Co-Design for Vision/Language Transformer Model (TCAS-I'24)
 - **Emerging Stochastic Computing Techniques for AI Computing**
   - Efficient Sequence Generator and MAC Implementation (NANOARCH'22, TNANO'24)
 - **Efficient Massive MIMO Detectors for 5G/6G Communication**
@@ -39,6 +40,7 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 One co-authored paper about *ViT quantization and accelerator* is accepted by IEEE TCAS-I. Congratulations to Gang Wang !!!
 - *2024.03*: &nbsp;🎉🎉 The preprint version of our DAC'24 paper *DEFA: Deformable Attention Accelerator* is available on [ArXiv](https://arxiv.org/pdf/2403.10913.pdf). Welcome to discuss with us !!
 - *2024.02*: &nbsp;🎉🎉 Our TNANO'24 paper can be early accessed on the [IEEE Xplorer](https://ieeexplore.ieee.org/document/10443589).
 - *2024.02*: &nbsp;🎉🎉 One co-authored paper about *Deformable Attention Acceleration* is accepted by DAC'24 !!! Congratulations to Yansong !!! See you in San Francisco !!!
@@ -98,6 +100,7 @@ $^{\star}$: me as the project manager; $^{\dagger}$: equal contribution.
 
 
 ### Efficient Hardware Accelerators for AI Computing (Jan. 2022 -- Present)
+- ``TCAS-I 2024`` [BSViT: A Bit-Serial Vision Transformer Accelerator Exploiting Dynamic Patch and Weight Bit-Group Quantization](), Gang Wang, Siqi Cai, Wenjie Li, **Dongxu Lyu** and Guanghui He, in *IEEE Transactions on Circuits and Systems I: Regular Papers*.
 - ``DAC 2024`` [DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing](https://arxiv.org/pdf/2403.10913.pdf), Yansong Xu, **Dongxu Lyu**$^{\star}$, Zhenyu Li, Yuzhou Chen, Zilong Wang, Gang Wang, Zhican Wang, Haomin Li and Guanghui He, *2024 61th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2024.
 - ``TCAS-II 2024`` [A Broad-Spectrum and High-Throughput Compression Engine for Neural Network Processors](https://ieeexplore.ieee.org/document/10433078), Yuzhou Chen, Jinming Zhang, **Dongxu Lyu**$^{\star}$, Zhenyu Li and Guanghui He, in *IEEE Transactions on Circuits and Systems II: Express Briefs*.
 - ``TVLSI 2024`` [FLNA: Flexibly Accelerating Feature Learning Networks for Large-Scale Point Clouds with Efficient Dataflow Decoupling](https://ieeexplore.ieee.org/document/10416684), **Dongxu Lyu**$^{\dagger}$, Zhenyu Li$^{\dagger}$, Yuzhou Chen, Gang Wang, Weifeng He, Ningyi Xu and Guanghui He, in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*.
