@@ -40,6 +40,8 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 One co-authored paper about *Asynchronous Execution in NDP* is accepted by HPCA 2025 (CCF-A). Congratulations to Liyan Chen!!!
+- *2024.08*: &nbsp;🎉🎉 One co-authored paper about *Hardware-oriented Softmax and LayerNorm Optimization* is accepted by Science China Information Sciences (CCF-A). Congratulations to Wenjie Li!!!
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper about *ViT quantization and accelerator* is accepted by IEEE TCAS-I. Congratulations to Gang Wang !!!
 - *2024.03*: &nbsp;🎉🎉 The preprint version of our DAC'24 paper *DEFA: Deformable Attention Accelerator* is available on [ArXiv](https://arxiv.org/pdf/2403.10913.pdf). Welcome to discuss with us !!
 - *2024.02*: &nbsp;🎉🎉 Our TNANO'24 paper can be early accessed on the [IEEE Xplorer](https://ieeexplore.ieee.org/document/10443589).
@@ -100,6 +102,9 @@ $^{\star}$: me as the project manager; $^{\dagger}$: equal contribution.
 
 
 ### Efficient Hardware Accelerators for AI Computing (Jan. 2022 -- Present)
+- ``HPCA 2025`` [AsyncDIMM: Achieving Asynchronous Execution in DIMM-Based Near-Memory Processing](), Liyan Chen$^{\star}$, **Dongxu Lyu**$^{\star}$, Jianfei Jiang, Qin Wang, Zhigang Mao, Naifeng Jing, in *2025 International Symposium on Computer Architecture (HPCA)*.
+- ``TVLSI 2024`` [M2M: A Fine-Grained Mapping Framework to Accelerate Multiple DNNs on a Multi-Chiplet Architecture](https://ieeexplore.ieee.org/abstract/document/10634307) Jinming Zhang, Xuyan Wang, Yaoyao Ye, **Dongxu Lyu**, Guojie Xiong, Ningyi Xu, Yong Lian and Guanghui He, in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*.
+- ``Science China Information Sciences`` [Hardware-Oriented Algorithms for Softmax and Layer Normalization of Large Language Models](http://scis.scichina.com/en/2024/200404.pdf) Wenjie Li, **Dongxu Lyu**, Gang Wang, Aokun Hu, Ningyi Xu and Guanghui He, in *Science China Information Sciences*.
 - ``TCAS-I 2024`` [BSViT: A Bit-Serial Vision Transformer Accelerator Exploiting Dynamic Patch and Weight Bit-Group Quantization](), Gang Wang, Siqi Cai, Wenjie Li, **Dongxu Lyu** and Guanghui He, in *IEEE Transactions on Circuits and Systems I: Regular Papers*.
 - ``DAC 2024`` [DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing](https://arxiv.org/pdf/2403.10913.pdf), Yansong Xu, **Dongxu Lyu**$^{\star}$, Zhenyu Li, Yuzhou Chen, Zilong Wang, Gang Wang, Zhican Wang, Haomin Li and Guanghui He, *2024 61th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2024.
 - ``TCAS-II 2024`` [A Broad-Spectrum and High-Throughput Compression Engine for Neural Network Processors](https://ieeexplore.ieee.org/document/10433078), Yuzhou Chen, Jinming Zhang, **Dongxu Lyu**$^{\star}$, Zhenyu Li and Guanghui He, in *IEEE Transactions on Circuits and Systems II: Express Briefs*.
@@ -117,6 +122,7 @@ $^{\star}$: me as the project manager; $^{\dagger}$: equal contribution.
 
 
 # 🎖 Honors and Awards
+- *2024.09* **National Scholarship for Doctoral Students** (Top 0.1%) in SEIEE, Shanghai Jiao Tong University.
 - *2021.11* **1st Prize on China Postgraduate IC Innovation Competition (中国研究生创芯大赛)** from Association of Chinese Graduate Education. 
 - *2020.06* **Shanghai Outstanding Graduate** from Shanghai City.
 - *2020.06* **Departmental Excellent Undergraduate Thesis (Department of Micro/Nano Electronics)** from Shanghai Jiao Tong University.
