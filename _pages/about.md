@@ -117,8 +117,8 @@ $^{\star}$: project manager; $^{\dagger}$: equal contribution.
 - ``HPCA 2025`` [AsyncDIMM: Achieving Asynchronous Execution in DIMM-Based Near-Memory Processing](), Liyan Chen$^{\star}$, **Dongxu Lyu**$^{\star}$, Jianfei Jiang, Qin Wang, Zhigang Mao, Naifeng Jing, in *2025 International Symposium on Computer Architecture (HPCA)*.
 
 ### Efficient AI Computing
-- ``DATE 2025`` [TAIL: Exploiting Temporal Asynchronous Execution for Efficient Spiking Neural Networks with Inter-Layer Parallelism](), Haomin Li, Fangxin Liu, Zongwu Wang, **Dongxu Lyu**, Shiyuan Huang, Ning Yang, Qi Sun, Zhuoran Song and Li Jiang, in *Design, Automation {\&} Test in Europe Conference {\&} Exhibition 2025*.
-- ``DATE 2025`` [HyperDyn: Dynamic Dimensional Masking forEffcient Hyper-Dimensional Computing](), Fangxin Liu, Haomin Li, Zongwu Wang, **Dongxu Lyu** and Li Jiang, in *Design, Automation {\&} Test in Europe Conference {\&} Exhibition 2025*.
+- ``DATE 2025`` [TAIL: Exploiting Temporal Asynchronous Execution for Efficient Spiking Neural Networks with Inter-Layer Parallelism](), Haomin Li, Fangxin Liu, Zongwu Wang, **Dongxu Lyu**, Shiyuan Huang, Ning Yang, Qi Sun, Zhuoran Song and Li Jiang, in *Design, Automation & Test in Europe Conference 2025*.
+- ``DATE 2025`` [HyperDyn: Dynamic Dimensional Masking forEffcient Hyper-Dimensional Computing](), Fangxin Liu, Haomin Li, Zongwu Wang, **Dongxu Lyu** and Li Jiang, in *Design, Automation & Test in Europe Conference 2025*.
 
 ### Emerging Stochastic Computing Techniques for AI Computing (Sep. 2021 -- Present)
 - ``TNANO 2024`` [Efficient Parallel Stochastic Computing Multiply-Accumulate (MAC) Technique Using Pseudo-Sobol Bit-Streams](https://ieeexplore.ieee.org/document/10443589), Aokun Hu, Wenjie Li, **Dongxu Lyu** and Guanghui He, in *IEEE Transactions on Nanotechnology*.
