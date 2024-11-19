@@ -146,6 +146,6 @@ $^{\star}$: project manager; $^{\dagger}$: equal contribution.
 # 💻 Internships
 - *2022.03 - now*, **Hardware & Toolchain Intern** in [Huixi Technology (辉羲智能)](https://www.rhino.auto/), Shanghai, China.
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5omhdkjpo3a&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
+<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5omhdkjpo3a&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script> -->
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/0.js?i=55sol1o649h&amp;d=3&amp;p=0&amp;b=0&amp;w=293&amp;g=2&amp;f=arial&amp;fs=12&amp;r=0&amp;c0=362b05&amp;c1=375363&amp;c2=000000&amp;ic0=0&amp;ic1=0" async="async"></script>
+<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/0.js?i=55sol1o649h&amp;d=3&amp;p=0&amp;b=0&amp;w=293&amp;g=2&amp;f=arial&amp;fs=12&amp;r=0&amp;c0=362b05&amp;c1=375363&amp;c2=000000&amp;ic0=0&amp;ic1=0" async="async"></script> -->
