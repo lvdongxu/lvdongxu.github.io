@@ -22,16 +22,18 @@ I'm a Ph.D candidate for Electrical Science and Technology at the Department of 
 My current research interests focus on **Efficient ASIC Architecture Design for Emerging Applications**  (<a href='https://scholar.google.com/citations?user=K1JGQBIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
 - **Efficient Hardware Accelerators for AI Computing**
   - Multi-sensor Perception Acceleration for Autonomous Driving Systems
-    - Preprocessing: *feature learning network* (DAC'23, TVLSI'24)
-    - Backbone: *3D sparse convolution* (ICCAD'23)
-    - Multi-modality Fusion: *vision-centric 3D perception* (DAC'24 and TCAS-I'24(under minor revision))
-    - Postprocessing: *Non-maximum Suppression* (ISCAS'23)
-  - Data Compression Techniques for High-bandwidth Requirement from Future Neural Networks (TCAS-II'24)
-  - Hardware/Software Co-Design for Vision/Language Transformer Model (TCAS-I'24)
+    - Preprocessing: *feature learning network* [DAC'23, TVLSI'24]
+    - Backbone: *3D sparse convolution* [ICCAD'23]
+    - Multi-modality Fusion: *vision-centric 3D perception* [DAC'24 and TCAS-I'24(under minor revision)]
+    - Postprocessing: *Non-maximum Suppression* [ISCAS'23]
+  - Data Compression Techniques for High-bandwidth Requirement from Future Neural Networks [TCAS-II'24]
+  - Hardware/Software Co-Design for Vision/Language Transformer Model [TCAS-I'24, SCIS'24, TCAS-I'24(under minor revision), DAC'24(under review)]
+  - Neural Rendering Acceleration [TCAD'24]
+  - Near Memory Processing for Various Applications [HPCA'24, DAC'24(under review)]
 - **Emerging Stochastic Computing Techniques for AI Computing**
-  - Efficient Sequence Generator and MAC Implementation (NANOARCH'22, TNANO'24)
+  - Efficient Sequence Generator and MAC Implementation [NANOARCH'22, TNANO'24]
 - **Efficient Massive MIMO Detectors for 5G/6G Communication**
-  - 8x8 High-thoughput Soft-output MIMO detector (TVLSI'21)
+  - 8x8 High-thoughput Soft-output MIMO detector [TVLSI'21]
 
 
 <!-- The current focus is efficient ASIC design for AI applications like BEV perception, point cloud processing and massive MIMO wireless detector, and emerging computing paradigm design like stochastic computing (<a href='https://scholar.google.com/citations?user=K1JGQBIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -40,15 +42,16 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 Two co-authored papers about *Efficient SNN and hyper-dimensional computing* are accepted by DATE 2025. Congratulations to Haomin Li!!!
-- *2024.11*: &nbsp;🎉🎉 One co-authored paper about *Asynchronous Execution in NDP* is accepted by HPCA 2025. Congratulations to Liyan Chen!!!
+- *2024.11*: &nbsp;🎉🎉 One guided papers about *Neural Rendering Acceleration* is accepted by TCAD. Congratulations to Yuzhou Chen and Zhenyu Li!!!
+- *2024.11*: &nbsp;🎉🎉 Two co-authored papers about *Efficient SNN and Hyper-dimensional Computing* are accepted by DATE 2025. Congratulations to Haomin Li!!!
+- *2024.11*: &nbsp;🎉🎉 One jointly led paper about *Near Memory Processing* is accepted by HPCA 2025. Congratulations to Liyan Chen!!!
 - *2024.08*: &nbsp;🎉🎉 One co-authored paper about *Hardware-oriented Softmax and LayerNorm Optimization* is accepted by Science China Information Sciences. Congratulations to Wenjie Li!!!
-- *2024.07*: &nbsp;🎉🎉 One co-authored paper about *ViT quantization and accelerator* is accepted by IEEE TCAS-I. Congratulations to Gang Wang !!!
+- *2024.07*: &nbsp;🎉🎉 One co-authored paper about *ViT Quantization and Accelerator* is accepted by IEEE TCAS-I. Congratulations to Gang Wang !!!
 - *2024.03*: &nbsp;🎉🎉 The preprint version of our DAC'24 paper *DEFA: Deformable Attention Accelerator* is available on [ArXiv](https://arxiv.org/pdf/2403.10913.pdf). Welcome to discuss with us !!
 - *2024.02*: &nbsp;🎉🎉 Our TNANO'24 paper can be early accessed on the [IEEE Xplorer](https://ieeexplore.ieee.org/document/10443589).
-- *2024.02*: &nbsp;🎉🎉 One co-authored paper about *Deformable Attention Acceleration* is accepted by DAC'24 !!! Congratulations to Yansong !!! See you in San Francisco !!!
+- *2024.02*: &nbsp;🎉🎉 One guided paper about *Deformable Attention Acceleration* is accepted by DAC'24 !!! Congratulations to Yansong !!! See you in San Francisco !!!
 - *2024.02*: &nbsp;🎉🎉 Our TCAS-II'24 paper can be early accessed on the [IEEE Xplorer](https://ieeexplore.ieee.org/document/10433078).
-- *2024.02*: &nbsp;🎉🎉 One co-authored paper about *NN data compression engine* is accepted by IEEE TCAS-II. Congratulations to Yuzhou !!!
+- *2024.02*: &nbsp;🎉🎉 One guided paper about *NN data compression engine* is accepted by IEEE TCAS-II. Congratulations to Yuzhou !!!
 - *2024.01*: &nbsp;🎉🎉 Our TVLSI'24 paper can be early accessed on the [IEEE Xplorer](https://ieeexplore.ieee.org/document/10416684). 
 - *2024.01*: &nbsp;🎉🎉 The extended paper of our DAC'23 is accepted by IEEE TVLSI !!!. 
 - *2023.11*: &nbsp;🎉🎉 One co-authored paper about *SC-based MAC Design* is accepted by IEEE TNANO. Congratulations to Aokun !!!
@@ -103,9 +106,10 @@ $^{\star}$: project manager; $^{\dagger}$: equal contribution.
 
 
 ### Efficient Hardware Accelerators for AI Computing (Jan. 2022 -- Present)
+- ``TCAD 2024`` [Neural Rendering Acceleration with Deferred Neural Decoding and Voxel-Centric Data Flow](), Yuzhou Chen, Zhenyu Li, **Dongxu Lyu**$^{\star}$, Yansong Xu and Guanghui He, in *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
 - ``TVLSI 2024`` [M2M: A Fine-Grained Mapping Framework to Accelerate Multiple DNNs on a Multi-Chiplet Architecture](https://ieeexplore.ieee.org/abstract/document/10634307) Jinming Zhang, Xuyan Wang, Yaoyao Ye, **Dongxu Lyu**, Guojie Xiong, Ningyi Xu, Yong Lian and Guanghui He, in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*.
 - ``Science China Information Sciences`` [Hardware-Oriented Algorithms for Softmax and Layer Normalization of Large Language Models](http://scis.scichina.com/en/2024/200404.pdf) Wenjie Li, **Dongxu Lyu**, Gang Wang, Aokun Hu, Ningyi Xu and Guanghui He, in *Science China Information Sciences*.
-- ``TCAS-I 2024`` [BSViT: A Bit-Serial Vision Transformer Accelerator Exploiting Dynamic Patch and Weight Bit-Group Quantization](), Gang Wang, Siqi Cai, Wenjie Li, **Dongxu Lyu** and Guanghui He, in *IEEE Transactions on Circuits and Systems I: Regular Papers*.
+- ``TCAS-I 2024`` [BSViT: A Bit-Serial Vision Transformer Accelerator Exploiting Dynamic Patch and Weight Bit-Group Quantization](https://ieeexplore.ieee.org/abstract/document/10601322), Gang Wang, Siqi Cai, Wenjie Li, **Dongxu Lyu** and Guanghui He, in *IEEE Transactions on Circuits and Systems I: Regular Papers*.
 - ``DAC 2024`` [DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing](https://arxiv.org/pdf/2403.10913.pdf), Yansong Xu, **Dongxu Lyu**$^{\star}$, Zhenyu Li, Yuzhou Chen, Zilong Wang, Gang Wang, Zhican Wang, Haomin Li and Guanghui He, *2024 61th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2024.
 - ``TCAS-II 2024`` [A Broad-Spectrum and High-Throughput Compression Engine for Neural Network Processors](https://ieeexplore.ieee.org/document/10433078), Yuzhou Chen, Jinming Zhang, **Dongxu Lyu**$^{\star}$, Zhenyu Li and Guanghui He, in *IEEE Transactions on Circuits and Systems II: Express Briefs*.
 - ``TVLSI 2024`` [FLNA: Flexibly Accelerating Feature Learning Networks for Large-Scale Point Clouds with Efficient Dataflow Decoupling](https://ieeexplore.ieee.org/document/10416684), **Dongxu Lyu**$^{\dagger}$, Zhenyu Li$^{\dagger}$, Yuzhou Chen, Gang Wang, Weifeng He, Ningyi Xu and Guanghui He, in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*.
