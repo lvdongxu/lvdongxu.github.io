@@ -24,12 +24,12 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
   - Multi-sensor Perception Acceleration for Autonomous Driving Systems
     - Preprocessing: *feature learning network* [DAC'23, TVLSI'24]
     - Backbone: *3D sparse convolution* [ICCAD'23]
-    - Multi-modality Fusion: *vision-centric 3D perception* [DAC'24 and TCAS-I'24(under minor revision)]
+    - Multi-modality Fusion: *vision-centric 3D perception* [DAC'24 and TCAS-I'25(under minor revision)]
     - Postprocessing: *Non-maximum Suppression* [ISCAS'23]
   - Data Compression Techniques for High-bandwidth Requirement from Future Neural Networks [TCAS-II'24]
-  - Hardware/Software Co-Design for Vision/Language Transformer Model [TCAS-I'24, SCIS'24, TCAS-I'24(under minor revision), DAC'24(under review)]
+  - Hardware/Software Co-Design for Vision/Language Transformer Model [TCAS-I'24, SCIS'24, TCAS-I'25(under minor revision), DAC'25(under review)]
   - Neural Rendering Acceleration [TCAD'24]
-  - Near Memory Processing for Various Applications [HPCA'24, DAC'24(under review)]
+  - Near Memory Processing for Various Applications [HPCA'24, TCAD'25, DAC'25(under review)]
 - **Emerging Stochastic Computing Techniques for AI Computing**
   - Efficient Sequence Generator and MAC Implementation [NANOARCH'22, TNANO'24]
 - **Efficient Massive MIMO Detectors for 5G/6G Communication**
@@ -42,6 +42,7 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One co-authored paper about *Near Memory Processing* is accepted by TCAD. Congratulations to Liyan Chen!!!
 - *2024.11*: &nbsp;🎉🎉 One guided papers about *Neural Rendering Acceleration* is accepted by TCAD. Congratulations to Yuzhou Chen and Zhenyu Li!!!
 - *2024.11*: &nbsp;🎉🎉 Two co-authored papers about *Efficient SNN and Hyper-dimensional Computing* are accepted by DATE 2025. Congratulations to Haomin Li!!!
 - *2024.11*: &nbsp;🎉🎉 One jointly led paper about *Near Memory Processing* is accepted by HPCA 2025. Congratulations to Liyan Chen!!!
@@ -73,7 +74,7 @@ $^{\star}$: project manager; $^{\dagger}$: equal contribution.
 
 - The **first** grid-based feature learning network accelerator with algorithm-architecture co-optimization for large-scale point clouds. 
 - It demonstrates substantial performance boost over the state-of-the-art point cloud accelerators while providing superior support of large-scale point clouds ($>10^6$ points in $\sim$2ms).
-- **An extension of our DAC'24 paper**.
+- **An extension of our DAC'23 paper**.
 - *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*
 </div>
 </div>
@@ -106,9 +107,9 @@ $^{\star}$: project manager; $^{\dagger}$: equal contribution.
 
 
 ### Efficient Hardware Accelerators for AI Computing (Jan. 2022 -- Present)
-- ``TCAD 2024`` [Neural Rendering Acceleration with Deferred Neural Decoding and Voxel-Centric Data Flow](), Yuzhou Chen, Zhenyu Li, **Dongxu Lyu**$^{\star}$, Yansong Xu and Guanghui He, in *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
+- ``TCAD 2024`` [Neural Rendering Acceleration with Deferred Neural Decoding and Voxel-Centric Data Flow](https://ieeexplore.ieee.org/abstract/document/10819500), Yuzhou Chen, Zhenyu Li, **Dongxu Lyu**$^{\star}$, Yansong Xu and Guanghui He, in *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
 - ``TVLSI 2024`` [M2M: A Fine-Grained Mapping Framework to Accelerate Multiple DNNs on a Multi-Chiplet Architecture](https://ieeexplore.ieee.org/abstract/document/10634307) Jinming Zhang, Xuyan Wang, Yaoyao Ye, **Dongxu Lyu**, Guojie Xiong, Ningyi Xu, Yong Lian and Guanghui He, in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*.
-- ``Science China Information Sciences`` [Hardware-Oriented Algorithms for Softmax and Layer Normalization of Large Language Models](http://scis.scichina.com/en/2024/200404.pdf) Wenjie Li, **Dongxu Lyu**, Gang Wang, Aokun Hu, Ningyi Xu and Guanghui He, in *Science China Information Sciences*.
+- ``SCIS 2024`` [Hardware-Oriented Algorithms for Softmax and Layer Normalization of Large Language Models](http://scis.scichina.com/en/2024/200404.pdf) Wenjie Li, **Dongxu Lyu**, Gang Wang, Aokun Hu, Ningyi Xu and Guanghui He, in *Science China Information Sciences*.
 - ``TCAS-I 2024`` [BSViT: A Bit-Serial Vision Transformer Accelerator Exploiting Dynamic Patch and Weight Bit-Group Quantization](https://ieeexplore.ieee.org/abstract/document/10601322), Gang Wang, Siqi Cai, Wenjie Li, **Dongxu Lyu** and Guanghui He, in *IEEE Transactions on Circuits and Systems I: Regular Papers*.
 - ``DAC 2024`` [DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing](https://arxiv.org/pdf/2403.10913.pdf), Yansong Xu, **Dongxu Lyu**$^{\star}$, Zhenyu Li, Yuzhou Chen, Zilong Wang, Gang Wang, Zhican Wang, Haomin Li and Guanghui He, *2024 61th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2024.
 - ``TCAS-II 2024`` [A Broad-Spectrum and High-Throughput Compression Engine for Neural Network Processors](https://ieeexplore.ieee.org/document/10433078), Yuzhou Chen, Jinming Zhang, **Dongxu Lyu**$^{\star}$, Zhenyu Li and Guanghui He, in *IEEE Transactions on Circuits and Systems II: Express Briefs*.
@@ -119,6 +120,7 @@ $^{\star}$: project manager; $^{\dagger}$: equal contribution.
 
 ### Efficient System-level Design (Apr. 2024 -- Present)
 - ``HPCA 2025`` [AsyncDIMM: Achieving Asynchronous Execution in DIMM-Based Near-Memory Processing](), Liyan Chen$^{\star}$, **Dongxu Lyu**$^{\star}$, Jianfei Jiang, Qin Wang, Zhigang Mao, Naifeng Jing, in *2025 International Symposium on Computer Architecture (HPCA)*.
+- ``TCAD 2025`` [Bridge-NDP: Efficient Communication-Computation Overlap in Near Data Processing System](), Liyan Chen, Pengyu Liu, **Dongxu Lyu**, Jianfei Jiang, Qin Wang, Zhigang Mao, Naifeng Jing, in *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*
 
 ### Efficient AI Computing
 - ``DATE 2025`` [TAIL: Exploiting Temporal Asynchronous Execution for Efficient Spiking Neural Networks with Inter-Layer Parallelism](), Haomin Li, Fangxin Liu, Zongwu Wang, **Dongxu Lyu**, Shiyuan Huang, Ning Yang, Qi Sun, Zhuoran Song and Li Jiang, in *Design, Automation & Test in Europe Conference 2025*.
