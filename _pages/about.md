@@ -27,9 +27,9 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
     - Multi-modality Fusion: *vision-centric 3D perception* [DAC'24 and TCAS-I'25(under minor revision)]
     - Postprocessing: *Non-maximum Suppression* [ISCAS'23]
   - Data Compression Techniques for High-bandwidth Requirement from Future Neural Networks [TCAS-II'24]
-  - Hardware/Software Co-Design for Vision/Language Transformer Model [TCAS-I'24, SCIS'24, TCAS-I'25(under minor revision), DAC'25(under review)]
+  - Hardware/Software Co-Design for Vision/Language Transformer Model [TCAS-I'24, SCIS'24, TCAS-I'25(under minor revision), 2xDAC'25]
   - Neural Rendering Acceleration [TCAD'24]
-  - Near Memory Processing for Various Applications [HPCA'24, TCAD'25, DAC'25(under review)]
+  - Near Memory Processing for Various Applications [HPCA'24, TCAD'25, DAC'25]
 - **Emerging Stochastic Computing Techniques for AI Computing**
   - Efficient Sequence Generator and MAC Implementation [NANOARCH'22, TNANO'24]
 - **Efficient Massive MIMO Detectors for 5G/6G Communication**
@@ -42,6 +42,7 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Two co-first-authored paper about *DSA's Efficiency Optimization on KV Cache in LLMs* and *Near Memory Processing for Generative LLM inference* are accepted by DAC. One co-authored paper about *Bit-serial Neural Network Acceleration* is also accepted by DAC. Congratulations to Zhenyu Li, Liyan Chen and Gang Wang!!!
 - *2025.01*: &nbsp;🎉🎉 One co-authored paper about *Near Memory Processing* is accepted by TCAD. Congratulations to Liyan Chen!!!
 - *2024.11*: &nbsp;🎉🎉 One guided papers about *Neural Rendering Acceleration* is accepted by TCAD. Congratulations to Yuzhou Chen and Zhenyu Li!!!
 - *2024.11*: &nbsp;🎉🎉 Two co-authored papers about *Efficient SNN and Hyper-dimensional Computing* are accepted by DATE 2025. Congratulations to Haomin Li!!!
@@ -107,6 +108,9 @@ $^{\star}$: project manager; $^{\dagger}$: equal contribution.
 
 
 ### Efficient Hardware Accelerators for AI Computing (Jan. 2022 -- Present)
+- ``DAC 2025`` [KVO-LLM: Boosting Long-Context Generation Throughput for Batched LLM Inference](), Zhenyu Li$^{\dagger}$, **Dongxu Lyu**$^{\star \dagger}$, Gang Wang, Yuzhou Chen, Liyan Chen, Wenjie Li, Jianfei Jiang, Yanan Sun and Guanghui He
+, *2025 62th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2025.
+- ``DAC 2025`` [BitPattern: Enabling Efficient Bit-Serial Acceleration of Deep Neural Networks through Bit-Pattern Pruning](), Gang Wang, Siqi Cai, Zhenyu Li, Wenjie Li, Dongxu Lyu, Yanan Sun, Jianfei Jiang and Guanghui He, *2025 62th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2025.
 - ``TCAD 2024`` [Neural Rendering Acceleration with Deferred Neural Decoding and Voxel-Centric Data Flow](https://ieeexplore.ieee.org/abstract/document/10819500), Yuzhou Chen, Zhenyu Li, **Dongxu Lyu**$^{\star}$, Yansong Xu and Guanghui He, in *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*.
 - ``TVLSI 2024`` [M2M: A Fine-Grained Mapping Framework to Accelerate Multiple DNNs on a Multi-Chiplet Architecture](https://ieeexplore.ieee.org/abstract/document/10634307) Jinming Zhang, Xuyan Wang, Yaoyao Ye, **Dongxu Lyu**, Guojie Xiong, Ningyi Xu, Yong Lian and Guanghui He, in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*.
 - ``SCIS 2024`` [Hardware-Oriented Algorithms for Softmax and Layer Normalization of Large Language Models](http://scis.scichina.com/en/2024/200404.pdf) Wenjie Li, **Dongxu Lyu**, Gang Wang, Aokun Hu, Ningyi Xu and Guanghui He, in *Science China Information Sciences*.
@@ -119,6 +123,7 @@ $^{\star}$: project manager; $^{\dagger}$: equal contribution.
 - ``ISCAS 2023`` [O$^3$NMS: An Out-Of-Order-Based Low-Latency Accelerator for Non-Maximum Suppression](https://ieeexplore.ieee.org/abstract/document/10181731), Yuzhou Chen, Jinming Zhang, **Dongxu Lyu**$^{\star}$, Xi Yu and Guanghui He, *2023 IEEE International Symposium on Circuits and Systems (ISCAS)*, Monterey, CA, USA, 2023, pp. 1-5.
 
 ### Efficient System-level Design (Apr. 2024 -- Present)
+- ``DAC 2025`` [AttenPIM: Accelerating LLM Attention with Dual-mode GEMV in Processing-in-Memory](), Liyan Chen$^{\dagger}$, **Dongxu Lyu**$^{\dagger}$, Zhenyu Li, Jianfei Jiang, Qin Wang, Zhigang Mao and Naifeng Jing, *2025 62th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2025.
 - ``HPCA 2025`` [AsyncDIMM: Achieving Asynchronous Execution in DIMM-Based Near-Memory Processing](), Liyan Chen$^{\star}$, **Dongxu Lyu**$^{\star}$, Jianfei Jiang, Qin Wang, Zhigang Mao, Naifeng Jing, in *2025 International Symposium on Computer Architecture (HPCA)*.
 - ``TCAD 2025`` [Bridge-NDP: Efficient Communication-Computation Overlap in Near Data Processing System](), Liyan Chen, Pengyu Liu, **Dongxu Lyu**, Jianfei Jiang, Qin Wang, Zhigang Mao, Naifeng Jing, in *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*
 
