@@ -24,10 +24,10 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
   - Multi-sensor Perception Acceleration for Autonomous Driving Systems
     - Preprocessing: *feature learning network* [DAC'23, TVLSI'24]
     - Backbone: *3D sparse convolution* [ICCAD'23]
-    - Multi-modality Fusion: *vision-centric 3D perception* [DAC'24 and TCAS-I'25(under minor revision)]
+    - Multi-modality Fusion: *vision-centric 3D perception* [DAC'24 and TCAS-I'25]
     - Postprocessing: *Non-maximum Suppression* [ISCAS'23]
   - Data Compression Techniques for High-bandwidth Requirement from Future Neural Networks [TCAS-II'24]
-  - Hardware/Software Co-Design for Vision/Language Transformer Model [TCAS-I'24, SCIS'24, TCAS-I'25(under minor revision), 2xDAC'25]
+  - Hardware/Software Co-Design for Vision/Language Transformer Model [TCAS-I'24, SCIS'24, TCAS-I'25, 2xDAC'25, JETCAS'25]
   - Neural Rendering Acceleration [TCAD'24]
   - Near Memory Processing for Various Applications [HPCA'24, TCAD'25, DAC'25]
 - **Emerging Stochastic Computing Techniques for AI Computing**
@@ -42,6 +42,10 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 One first-authored paper about *Acceleration for Vision-Centric 3D Perception* is accepted by TCAS-I !!!
+- *2025.03*: &nbsp;🎉🎉 One co-authored paper about *Hyper-Dimentional Computing* is accepted by ISCA. Congratulations to Haomin Li!!!
+- *2025.03*: &nbsp;🎉🎉 One co-authored paper about *Non-linear Function Acceleration in LLM* is accepted by JETCAS. Congratulations to Wenjie Li!!!
+- *2025.03*: &nbsp;🎉🎉 One co-authored paper about *LLM Quantization* is accepted by TCAS-I. Congratulations to Gang Wang!!!
 - *2025.02*: &nbsp;🎉🎉 Two co-first-authored paper about *DSA's Efficiency Optimization on KV Cache in LLMs* and *Near Memory Processing for Generative LLM inference* are accepted by DAC. One co-authored paper about *Bit-serial Neural Network Acceleration* is also accepted by DAC. Congratulations to Zhenyu Li, Liyan Chen and Gang Wang!!!
 - *2025.01*: &nbsp;🎉🎉 One co-authored paper about *Near Memory Processing* is accepted by TCAD. Congratulations to Liyan Chen!!!
 - *2024.11*: &nbsp;🎉🎉 One guided papers about *Neural Rendering Acceleration* is accepted by TCAD. Congratulations to Yuzhou Chen and Zhenyu Li!!!
@@ -108,6 +112,9 @@ $^{\star}$: project manager; $^{\dagger}$: equal contribution.
 
 
 ### Efficient Hardware Accelerators for AI Computing (Jan. 2022 -- Present)
+- ``TCAS-I 2025`` [An Efficient Multi-View Cross-Attention Accelerator for Vision-Centric 3D Perception in Autonomous Driving](), **Dongxu Lyu**$^{\star}$, Zhenyu Li, Yansong Xu, Gang Wang, Wenjie Li, Yuzhou Chen, Liyan Chen, Weifeng He and Guanghui He, in *IEEE Transactions on Circuits and Systems I: Regular Papers*.
+- ``JETCAS 2025`` [Efficient Hardware Architecture Design for Rotary Position Embedding of Large Language Models](), Wenjie Li, Gang Wang, **Dongxu Lyu**, Ningyi Xu and Guanghui He, in *IEEE Journal on Emerging and Selected Topics in Circuits and Systems*.
+- ``TCAS-I 2025`` [OFQ-LLM: Outlier-Flexing Quantization for Efficient Low-Bit Large Language Model Acceleration](https://ieeexplore.ieee.org/document/10924797), Gang Wang, Siqi Cai, Wenjie Li, **Dongxu Lyu** and Guanghui He, in *IEEE Transactions on Circuits and Systems I: Regular Papers*.
 - ``DAC 2025`` [KVO-LLM: Boosting Long-Context Generation Throughput for Batched LLM Inference](), Zhenyu Li$^{\dagger}$, **Dongxu Lyu**$^{\star \dagger}$, Gang Wang, Yuzhou Chen, Liyan Chen, Wenjie Li, Jianfei Jiang, Yanan Sun and Guanghui He
 , *2025 62th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2025.
 - ``DAC 2025`` [BitPattern: Enabling Efficient Bit-Serial Acceleration of Deep Neural Networks through Bit-Pattern Pruning](), Gang Wang, Siqi Cai, Zhenyu Li, Wenjie Li, Dongxu Lyu, Yanan Sun, Jianfei Jiang and Guanghui He, *2025 62th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2025.
@@ -128,6 +135,7 @@ $^{\star}$: project manager; $^{\dagger}$: equal contribution.
 - ``TCAD 2025`` [Bridge-NDP: Efficient Communication-Computation Overlap in Near Data Processing System](), Liyan Chen, Pengyu Liu, **Dongxu Lyu**, Jianfei Jiang, Qin Wang, Zhigang Mao, Naifeng Jing, in *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*
 
 ### Efficient AI Computing
+- ``ISCA 2025`` [FATE: Boosting the Performance of Hyper-Dimensional Computing Intelligence with Flexible Numerical DAta TypE](), Haomin Li, Fangxin Liu, Yichi Chen, Zongwu Wang, Shiyuan Huang, Ning Yang, **Dongxu Lyu** and Li Jiang, in *52nd Annual International Symposiumon Computer Architecture 2025 (ISCA'25)*.
 - ``DATE 2025`` [TAIL: Exploiting Temporal Asynchronous Execution for Efficient Spiking Neural Networks with Inter-Layer Parallelism](), Haomin Li, Fangxin Liu, Zongwu Wang, **Dongxu Lyu**, Shiyuan Huang, Ning Yang, Qi Sun, Zhuoran Song and Li Jiang, in *Design, Automation & Test in Europe Conference 2025*.
 - ``DATE 2025`` [HyperDyn: Dynamic Dimensional Masking forEffcient Hyper-Dimensional Computing](), Fangxin Liu, Haomin Li, Zongwu Wang, **Dongxu Lyu** and Li Jiang, in *Design, Automation & Test in Europe Conference 2025*.
 
