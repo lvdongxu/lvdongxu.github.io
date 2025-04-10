@@ -48,21 +48,7 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
 - *2025.03*: &nbsp;🎉🎉 One co-authored paper about *LLM Quantization* is accepted by TCAS-I. Congratulations to Gang Wang!!!
 - *2025.02*: &nbsp;🎉🎉 Two co-first-authored paper about *DSA's Efficiency Optimization on KV Cache in LLMs* and *Near Memory Processing for Generative LLM inference* are accepted by DAC. One co-authored paper about *Bit-serial Neural Network Acceleration* is also accepted by DAC. Congratulations to Zhenyu Li, Liyan Chen and Gang Wang!!!
 - *2025.01*: &nbsp;🎉🎉 One co-authored paper about *Near Memory Processing* is accepted by TCAD. Congratulations to Liyan Chen!!!
-<!-- - *2024.11*: &nbsp;🎉🎉 One guided papers about *Neural Rendering Acceleration* is accepted by TCAD. Congratulations to Yuzhou Chen and Zhenyu Li!!!
-- *2024.11*: &nbsp;🎉🎉 Two co-authored papers about *Efficient SNN and Hyper-dimensional Computing* are accepted by DATE 2025. Congratulations to Haomin Li!!!
-- *2024.11*: &nbsp;🎉🎉 One jointly led paper about *Near Memory Processing* is accepted by HPCA 2025. Congratulations to Liyan Chen!!!
-- *2024.08*: &nbsp;🎉🎉 One co-authored paper about *Hardware-oriented Softmax and LayerNorm Optimization* is accepted by Science China Information Sciences. Congratulations to Wenjie Li!!!
-- *2024.07*: &nbsp;🎉🎉 One co-authored paper about *ViT Quantization and Accelerator* is accepted by IEEE TCAS-I. Congratulations to Gang Wang !!!
-- *2024.03*: &nbsp;🎉🎉 The preprint version of our DAC'24 paper *DEFA: Deformable Attention Accelerator* is available on [ArXiv](https://arxiv.org/pdf/2403.10913.pdf). Welcome to discuss with us !!
-- *2024.02*: &nbsp;🎉🎉 Our TNANO'24 paper can be early accessed on the [IEEE Xplorer](https://ieeexplore.ieee.org/document/10443589).
-- *2024.02*: &nbsp;🎉🎉 One guided paper about *Deformable Attention Acceleration* is accepted by DAC'24 !!! Congratulations to Yansong !!! See you in San Francisco !!!
-- *2024.02*: &nbsp;🎉🎉 Our TCAS-II'24 paper can be early accessed on the [IEEE Xplorer](https://ieeexplore.ieee.org/document/10433078).
-- *2024.02*: &nbsp;🎉🎉 One guided paper about *NN data compression engine* is accepted by IEEE TCAS-II. Congratulations to Yuzhou !!!
-- *2024.01*: &nbsp;🎉🎉 Our TVLSI'24 paper can be early accessed on the [IEEE Xplorer](https://ieeexplore.ieee.org/document/10416684). 
-- *2024.01*: &nbsp;🎉🎉 The extended paper of our DAC'23 is accepted by IEEE TVLSI !!!. 
-- *2023.11*: &nbsp;🎉🎉 One co-authored paper about *SC-based MAC Design* is accepted by IEEE TNANO. Congratulations to Aokun !!!
-- *2023.07*: &nbsp;🎉🎉 One paper about *3D Sparse Convolution Accelerator* is accepted by ICCAD 2023. See you in San Francisco, US! 
-- *2023.02*: &nbsp;🎉🎉 One paper about *Feature Learning Network Acceleration of Point Clouds* is accepted by DAC 2023. See you in San Francisco, US! -->
+
 
 # 📝 Publications 
 
