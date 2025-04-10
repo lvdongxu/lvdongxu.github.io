@@ -48,7 +48,7 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
 - *2025.03*: &nbsp;🎉🎉 One co-authored paper about *LLM Quantization* is accepted by TCAS-I. Congratulations to Gang Wang!!!
 - *2025.02*: &nbsp;🎉🎉 Two co-first-authored paper about *DSA's Efficiency Optimization on KV Cache in LLMs* and *Near Memory Processing for Generative LLM inference* are accepted by DAC. One co-authored paper about *Bit-serial Neural Network Acceleration* is also accepted by DAC. Congratulations to Zhenyu Li, Liyan Chen and Gang Wang!!!
 - *2025.01*: &nbsp;🎉🎉 One co-authored paper about *Near Memory Processing* is accepted by TCAD. Congratulations to Liyan Chen!!!
-- *2024.11*: &nbsp;🎉🎉 One guided papers about *Neural Rendering Acceleration* is accepted by TCAD. Congratulations to Yuzhou Chen and Zhenyu Li!!!
+<!-- - *2024.11*: &nbsp;🎉🎉 One guided papers about *Neural Rendering Acceleration* is accepted by TCAD. Congratulations to Yuzhou Chen and Zhenyu Li!!!
 - *2024.11*: &nbsp;🎉🎉 Two co-authored papers about *Efficient SNN and Hyper-dimensional Computing* are accepted by DATE 2025. Congratulations to Haomin Li!!!
 - *2024.11*: &nbsp;🎉🎉 One jointly led paper about *Near Memory Processing* is accepted by HPCA 2025. Congratulations to Liyan Chen!!!
 - *2024.08*: &nbsp;🎉🎉 One co-authored paper about *Hardware-oriented Softmax and LayerNorm Optimization* is accepted by Science China Information Sciences. Congratulations to Wenjie Li!!!
@@ -62,13 +62,13 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
 - *2024.01*: &nbsp;🎉🎉 The extended paper of our DAC'23 is accepted by IEEE TVLSI !!!. 
 - *2023.11*: &nbsp;🎉🎉 One co-authored paper about *SC-based MAC Design* is accepted by IEEE TNANO. Congratulations to Aokun !!!
 - *2023.07*: &nbsp;🎉🎉 One paper about *3D Sparse Convolution Accelerator* is accepted by ICCAD 2023. See you in San Francisco, US! 
-- *2023.02*: &nbsp;🎉🎉 One paper about *Feature Learning Network Acceleration of Point Clouds* is accepted by DAC 2023. See you in San Francisco, US!
+- *2023.02*: &nbsp;🎉🎉 One paper about *Feature Learning Network Acceleration of Point Clouds* is accepted by DAC 2023. See you in San Francisco, US! -->
 
 # 📝 Publications 
 
 $^{\star}$: project manager; $^{\dagger}$: equal contribution.
 
-## Selected Publications
+<!-- ## Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVLSI 2024</div><img src='images/TVLSI24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -106,7 +106,7 @@ $^{\star}$: project manager; $^{\dagger}$: equal contribution.
 - SpOctA rivals the state-of-the-art SpConv accelerators by 1.1-6.9x speedup with 1.5-3.1x energy efficiency improvement on their benchmarks.
 - *2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)*
 </div>
-</div>
+</div> -->
 
 ## Full Pub List
 
