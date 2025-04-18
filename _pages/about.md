@@ -27,7 +27,7 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
     - Multi-modality Fusion: *vision-centric 3D perception* [DAC'24 and TCAS-I'25]
     - Postprocessing: *Non-maximum Suppression* [ISCAS'23]
   - Data Compression Techniques for High-bandwidth Requirement from Future Neural Networks [TCAS-II'24]
-  - Hardware/Software Co-Design for Vision/Language Transformer Model [TCAS-I'24, SCIS'24, TCAS-I'25, 2xDAC'25, JETCAS'25]
+  - Hardware/Software Co-Design for Vision/Language Transformer Model [TCAS-I'24, SCIS'24, TCAS-I'25, DAC'25 x2, JETCAS'25 x2]
   - Neural Rendering Acceleration [TCAD'24]
   - Near Memory Processing for Various Applications [HPCA'24, TCAD'25, DAC'25]
 - **Emerging Stochastic Computing Techniques for AI Computing**
@@ -42,6 +42,7 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One co-authored paper about *LLM Quantization* is accepted by JETCAS. Congratulations to Siqi!!!
 - *2025.03*: &nbsp;🎉🎉 One first-authored paper about *Acceleration for Vision-Centric 3D Perception* is accepted by TCAS-I !!!
 - *2025.03*: &nbsp;🎉🎉 One co-authored paper about *Hyper-Dimentional Computing* is accepted by ISCA. Congratulations to Haomin Li!!!
 - *2025.03*: &nbsp;🎉🎉 One co-authored paper about *Non-linear Function Acceleration in LLM* is accepted by JETCAS. Congratulations to Wenjie Li!!!
@@ -98,8 +99,9 @@ $^{\star}$: project manager; $^{\dagger}$: equal contribution.
 
 
 ### Efficient Hardware Accelerators for AI Computing (Jan. 2022 -- Present)
+- ``JETCAS 2025`` [Adaptive Two-Range Quantization and Hardware Co-Design for Large Language Model Acceleration](), Siqi Cai, Gang Wang, Wenjie Li, **Dongxu Lyu** and Guanghui He, in *IEEE Journal on Emerging and Selected Topics in Circuits and Systems, Special Issue: "Generative AI Compute: Algorithms, Architectures, and Applications to CAS"*.
 - ``TCAS-I 2025`` [An Efficient Multi-View Cross-Attention Accelerator for Vision-Centric 3D Perception in Autonomous Driving](), **Dongxu Lyu**$^{\star}$, Zhenyu Li, Yansong Xu, Gang Wang, Wenjie Li, Yuzhou Chen, Liyan Chen, Weifeng He and Guanghui He, in *IEEE Transactions on Circuits and Systems I: Regular Papers*.
-- ``JETCAS 2025`` [Efficient Hardware Architecture Design for Rotary Position Embedding of Large Language Models](), Wenjie Li, Gang Wang, **Dongxu Lyu**, Ningyi Xu and Guanghui He, in *IEEE Journal on Emerging and Selected Topics in Circuits and Systems*.
+- ``JETCAS 2025`` [Efficient Hardware Architecture Design for Rotary Position Embedding of Large Language Models](), Wenjie Li, Gang Wang, **Dongxu Lyu**, Ningyi Xu and Guanghui He, in *IEEE Journal on Emerging and Selected Topics in Circuits and Systems, Special Issue: "Generative AI Compute: Algorithms, Architectures, and Applications to CAS"*.
 - ``TCAS-I 2025`` [OFQ-LLM: Outlier-Flexing Quantization for Efficient Low-Bit Large Language Model Acceleration](https://ieeexplore.ieee.org/document/10924797), Gang Wang, Siqi Cai, Wenjie Li, **Dongxu Lyu** and Guanghui He, in *IEEE Transactions on Circuits and Systems I: Regular Papers*.
 - ``DAC 2025`` [KVO-LLM: Boosting Long-Context Generation Throughput for Batched LLM Inference](), Zhenyu Li$^{\dagger}$, **Dongxu Lyu**$^{\star \dagger}$, Gang Wang, Yuzhou Chen, Liyan Chen, Wenjie Li, Jianfei Jiang, Yanan Sun and Guanghui He
 , *2025 62th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2025.
@@ -151,6 +153,6 @@ $^{\star}$: project manager; $^{\dagger}$: equal contribution.
 # 💻 Internships
 - *2022.03 - now*, **Hardware & Toolchain Intern** in [Huixi Technology (辉羲智能)](https://www.rhino.auto/), Shanghai, China.
 
-<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5omhdkjpo3a&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script> -->
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5omhdkjpo3a&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
 
-<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/0.js?i=55sol1o649h&amp;d=3&amp;p=0&amp;b=0&amp;w=293&amp;g=2&amp;f=arial&amp;fs=12&amp;r=0&amp;c0=362b05&amp;c1=375363&amp;c2=000000&amp;ic0=0&amp;ic1=0" async="async"></script> -->
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/0.js?i=55sol1o649h&amp;d=3&amp;p=0&amp;b=0&amp;w=293&amp;g=2&amp;f=arial&amp;fs=12&amp;r=0&amp;c0=362b05&amp;c1=375363&amp;c2=000000&amp;ic0=0&amp;ic1=0" async="async"></script>
